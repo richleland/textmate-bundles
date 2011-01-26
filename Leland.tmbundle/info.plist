@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>Leland</string>
+	<key>ordering</key>
+	<array>
+		<string>66F1890F-9EDA-442A-8F6F-2AD6531D009A</string>
+		<string>C304AE2B-BF53-4A38-82BE-2A90C21154A6</string>
+		<string>999E62F5-1E7D-4790-9C03-18E4BD5A4A86</string>
+	</array>
+	<key>uuid</key>
+	<string>91FB27EB-D0C3-4094-A433-E23AB5610D49</string>
+</dict>
+</plist>
